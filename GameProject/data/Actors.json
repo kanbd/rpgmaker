@@ -1,4 +1,4 @@
 [
 null,
-{"id":1,"battlerName":"Actor3_5","characterIndex":4,"characterName":"Actor3","classId":1,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"zhaoyi","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"Actor3_5","characterIndex":4,"characterName":"Actor3","classId":5,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"Actor3","traits":[{"code":22,"dataId":0,"value":0.2}],"initialLevel":1,"maxLevel":99,"name":"zhaoyi","nickname":"","note":"","profile":""}
 ]
